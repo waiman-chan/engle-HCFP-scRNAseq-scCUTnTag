@@ -78,6 +78,3 @@ This script will allow to generate the pseudo-bulk figure showed in the paper.
 10. Add genomic coordinate and annotation to the dataset.
 11. Generate a pseudo bulk Coverage plot of the region of the interest (mm10, chr6-88186706-88250381).
 12. Save and export the Coverage plot figure.
-
-# Zenodo Link
-https://zenodo.org/badge/latestdoi/635023782
